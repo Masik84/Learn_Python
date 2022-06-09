@@ -1,0 +1,8 @@
+__pycache__/
+bot.log
+settings.py
+test.py
+test2.py
+.vscode/
+.idea/
+venv/
